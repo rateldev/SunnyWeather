@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SunnyWeather</string>
+    <string name="searchEditHint">输入地址</string>
+    <string name="backgroundImage">背景图</string>
 </resources>
