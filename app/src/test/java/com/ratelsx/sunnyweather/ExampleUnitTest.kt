@@ -1,5 +1,7 @@
 package com.ratelsx.sunnyweather
 
+import com.ratelsx.sunnyweather.logic.Repository
+import com.ratelsx.sunnyweather.logic.network.SunnyWeatherNetwork
 import org.junit.Test
 
 import org.junit.Assert.*
